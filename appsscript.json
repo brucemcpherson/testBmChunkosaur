@@ -1,0 +1,15 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "bmChunkosaur",
+        "version": "1",
+        "libraryId": "10Oln77FSLkDO7-xFi3KyxnAx1SXgs4LtFl44gXBs7a7ltWXFLwc1nMbn",
+        "developmentMode": false
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
