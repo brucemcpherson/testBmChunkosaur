@@ -146,12 +146,19 @@ const withBulker = async () => {
   }
 
 
-  console.log(chunker.stats)
+
+
   bulker.done().then((result) => {
     console.log(result)
     console.log(outItems.sort((a, b) => a.distance - b.distance)
       .map(f => [f.brewery.name, f.brewery.city, Math.round(f.distance / 1000), "km"].join(" "))
       .join("\n"))
+  })
+
+  chunker.exhausted.then(y => {
+    console.log('exhausted', y)
+    console.log(chunker.stats)
+    return y
   })
 
 }
