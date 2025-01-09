@@ -1,5 +1,5 @@
 # Google Apps Script Project: testBmChunkosaur
-This repo (testBmChunkosaur) was automatically updated on 10/25/2024, 12:09:25 PM by GasGit
+This repo (testBmChunkosaur) was automatically updated on 1/9/2025, 4:14:06 PM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -21,11 +21,11 @@ Exports| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-bmChunkosaur| bmChunkosaur|10Oln77FSLkDO7-xFi3KyxnAx1SXgs4LtFl44gXBs7a7ltWXFLwc1nMbn|2|no|[here](libraries/bmChunkosaur "library source")
+bmChunkosaur| bmChunkosaur|10Oln77FSLkDO7-xFi3KyxnAx1SXgs4LtFl44gXBs7a7ltWXFLwc1nMbn|4|no|[here](libraries/bmChunkosaur "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-bmChunkosaur| bmChunkosaur|10Oln77FSLkDO7-xFi3KyxnAx1SXgs4LtFl44gXBs7a7ltWXFLwc1nMbn|2|no|[here](libraries/bmChunkosaur "library source")
+bmChunkosaur| bmChunkosaur|10Oln77FSLkDO7-xFi3KyxnAx1SXgs4LtFl44gXBs7a7ltWXFLwc1nMbn|4|no|[here](libraries/bmChunkosaur "library source")
 ### Enabled Google Services
 no libraries discovered
 ### Scopes required
